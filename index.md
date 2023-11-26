@@ -28,26 +28,31 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/img/band.jpeg
     alt: "Holy band"
-    title: "Armband of the Astoundingly Ambiguous Origin"
-    excerpt: "This snug armband, with its striking cyan and purple hues, is lovingly woven from the most mysterious wool, sheared from a creature so remarkably unremarkable that its species remains a topic of fierce debate among the most scholarly (and bored) of naturalists. At its core dangles a trinket so bafflingly golden that it could outshine a dragon's retirement hoard.
-    Touted as the handiwork of the covertly famous, semi-anonymous, and mightily eccentric weaver Madam Mystifibula, the Armband of the Astoundingly Ambiguous Origin has graced the biceps of illusionists, charlatans, and the occasional hedge wizard. The kit's crowning glory, the trinket, is rumoured to be the result of an alchemical accident involving too much optimism and not enough common sense.
+    title: "The Shearling Fleece of Minuscule Marvels"
+    excerpt: "Attention, bargain-hunting wizards and frugal enchantresses! 
+    The Shearling Fleece of Minuscule Marvels may appear modest, but this woolen wonder punches well above its minuscule price tag. 
+    Knitted by the thrifty yet incredibly tottery Nanny Oggknits (no relation, just an extraordinary coincidence of surname and profession), this armband boasts an divine tinker. The tinker is rumored to be capable of anything from retrieving lost hair clips to convincing foes into investing in blockchain-based Ponzi schemes.
+    This curious trinket was the byproduct of Nanny Oggknits' attempt to make a scarf for her seventeen granddaughters.
+    Due to an inexplicable miscalculation — one that invariably happens when one knits by the fire after a nip of eggnog — the scarf turned out narrower than expected, resulting in a series of single-serving armbands. 
     Word to the Wise: Wearers of the armband may find they have a newfound penchant for riddles, an urge to speak in enigmas, or simply an itch they can’t scratch."
     url: "#test-link"
     btn_label: "$ 3.99"
     btn_class: "btn--primary"
   - image_path: /assets/img/bone.jpeg
     alt: "Cursed bone"
-    title: "Ossified Oracle of Ominous Oghams"
-    excerpt: "This particular bone, an enigma wrapped in a marrow-less enigma, bristles with obscure black tribal markings so cryptically mystical they could only have been scrawled by the universe's most indecipherable calligrapher during a particularly dark and stormy night. The bone's provenance is as murky as a swamp seer's crystal ball after a particularly heavy night of foreboding fog.
-    The famed oracle and part-time bone collector Madam Prophesilla once used it to tell fortunes, though her clients often left more befuddled than enlightened. She would wave the bone ominously, whisper sweet nothings to it, and make predictions that managed to be both vague and disconcertingly specific about the return of overdue library books.
-    A Forewarning for the Futurist: Should you come into possession of the Ossified Oracle, be prepared for sidelong glances from both fellow necromancers and neighborhood dogs. While the bone may seem to whisper secrets of the cosmos, it's best to remember that most ancient cosmic revelations can sound remarkably similar to the evening wind whistling through equally ancient plumbing."
+    title: "Courageous Camelid's Clavicle"
+    excerpt: "For the discerning necromancer who thought they had everything, the Courageous Camelid's Clavicle is a treasure that’s quite literally a cut above the rest — specifically the left shoulder. This prime specimen of osteomancy drips with magical potential and ancient wisdom, much like a llama's mouth drips with... well, best not to ask. 
+    Functionally, its uses are bound only by imagination, scruples, and local anti-necromancy statutes. 
+    Discovered in the remains of the now-defunct Aymaran Astral and Arcane Emporium (owner spontaneously transmuted into a potato, very tragic), this particular bone is steeped in the mystery around Archmage Mortivorius the Mildly Perplexed. Mortivorius, known for his lack of direction in both life and death, became unexpectedly eternal during a bungled experiment involving a turtle, three cloves of garlic, and the all-important clavicle.
+    In his undead wisdom, Mortivorius granted the clavicle mobility and the ability to inscribe upon itself the secrets of the universe. Unfortunately, he forgot to teach it penmanship, resulting in a bone scribbled with inscrutable magical graffiti. After several peculiar incidents, including a suprisingly successful attempt at running for public office, the bone was finally locked away until the Aymaran Astral and Arcane Emporium’s potato-related closure.
+    The Enigmatic Lich’s Femur now seeks a new owner, preferably one with liberal views on the ethical treatment of historical bones and a spirits cabinet stocked with something strong, for it does so hate to monologue sober."
     url: "#test-link"
     btn_label: "$ 379.99"
     btn_class: "btn--primary"
   - image_path: /assets/img/hat.jpeg
     alt: "Wizard hat"
-    title: "Wizard hat"
-    excerpt: 'This is a wizard hat.'
+    title: "Wizard hat 2.0"
+    excerpt: "After the overwhelming success of Wizard hat, we now present Wizard hat 2.0 with 25% higher arcane power and +5 on heresy."
     url: "#test-link"
     btn_label: "$ 2399.99"
     btn_class: "btn--primary"
@@ -55,4 +60,4 @@ feature_row:
 
 {% include feature_row id="feature_row" type="left" %}
 
-All prices excluding tax and tip.
+<cite>Last updated: Decemeber 1st 2023 5:58PM.</cite>
